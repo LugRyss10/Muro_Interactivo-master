@@ -1,0 +1,60 @@
+
+
+.login{
+    padding: 0px;
+    display: inline;
+}
+
+.login input[type="text"],.login h4{
+    padding: 0px;
+    margin-right: 5px;
+    display: inline-block;
+    padding: 7px;
+}
+
+button {
+    padding: 7px;
+}
+
+input {
+    border-radius: 30px;
+    border: none;
+    padding: 7px;
+}
+
+#div-registrarse{
+    height: 5px;
+}
+
+#div-login{
+    background-color: #D99D90;
+    margin-top: 290px;
+    text-color: black;
+}
+
+.contenedor{
+    padding-bottom: 25px;
+}
+
+.fila{
+    display: flex;
+}
+
+.columna{
+    padding-right: 25px;
+}
+
+.texto{
+   font-size: 19px;
+   width: 400px;
+   border-radius: 10px;
+   padding-top: 10px;
+}
+
+.boton{
+    margin-left: 250px;
+    font-size: 22px;
+    border-radius: 80px;
+    padding: 10px;
+    border: none;
+}
